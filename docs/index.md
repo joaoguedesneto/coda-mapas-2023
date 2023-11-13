@@ -1,27 +1,27 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Mapas Eleitorais com R"
+author: "Lucas Gelape, João V. Guedes-Neto e Marco Antonio Faganello"
 date: "2023-11-13"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://joaoguedesneto.github.io/coda-mapas-2023/
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: https://github.com/joaoguedesneto/coda-mapas-2023
 ---
 
-# Sobre o Workshop
+# Sobre
 
 Em 2018, PT e PSL protagonizaram a disputa pela presidência. No Capão Redondo, a disputa para deputado reproduziu essa tendência. Porém, em Pinheiros, os mais votados saíram desse padrão: foram PSOL e Novo. Mapas eleitorais permitem investigar esse fenômeno.
 
 O objetivo desse workshop é ensinar os participantes a trabalhar com dados espaciais no R a partir de informações eleitorais. Nele, vamos apresentar algumas características e cuidados especiais com esse tipo de dados, como associar os resultados eleitorais ao espaço (inclusive intramunicipais), e a produzir mapas.
 
-## Pré-Requisitos da Atividade 
+## Pré-Requisitos
 
 R, RStudio, pacotes (tidyverse e sf)
 
@@ -32,6 +32,3 @@ R, RStudio, pacotes (tidyverse e sf)
 *João V. Guedes-Neto* é pesquisador de pós-doutorado no CEPESP FGV, doutor em Ciência Política pela Universidade de Pittsburgh.
 
 *Marco Antonio Faganello* é Pesquisador, cientista de dados e pós-doutorando no CEPESP FGV, doutor em Ciência Política pela Universidade Estadual de Campinas (UNICAMP). Atualmente, pesquisa temas relacionados à eleições, partidos, direita e geografia eleitoral.
-
-
-
