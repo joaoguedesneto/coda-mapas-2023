@@ -1,7 +1,7 @@
 --- 
 title: "Mapas Eleitorais com R"
 author: "Lucas Gelape, João V. Guedes-Neto e Marco Antonio Faganello"
-date: "Coda.BR 2023"
+#date: "Coda.BR 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
