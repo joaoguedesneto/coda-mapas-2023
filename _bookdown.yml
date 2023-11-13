@@ -1,5 +1,16 @@
 book_filename: coda-mapas
 delete_merged_file: true
+rmd_files:
+- index.Rmd
+- 01-intro.Rmd
+- 02-primeiro-mapa.Rmd
+- 03-eleicoes-municipais.Rmd
+- 04-tipos-dados.Rmd
+- 05-cartografia.Rmd
+- 06-exercicios.Rmd
+- 07-visualiza.Rmd
+- 08-exercicio-final.Rmd
+- 09-references.Rmd
 output_dir: docs
 language:
   ui:

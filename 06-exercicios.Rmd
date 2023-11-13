@@ -1,0 +1,9 @@
+# Exercícios
+
+## Segundo Exercício
+
+Texto texto texto.
+
+## Terceiro Exercício
+
+Texto texto texto.

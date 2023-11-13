@@ -28,3 +28,12 @@ pré-requisitos
 cover-image-path-to-the-social-sharing-image-like-imagescover.jpg
 introdução
 meu-primeiro-mapa
+tipos-de-dados
+noções-introdutórias-de-cartografia
+exercícios
+primeiro-exercício
+segundo-exercício
+terceiro-exercício
+visualização
+orientações-básicas-de-visualização
+exercício-final
