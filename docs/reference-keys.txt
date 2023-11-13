@@ -5,8 +5,6 @@ thm:tri
 sobre-o-workshop
 pré-requisitos-da-atividade
 autores
-autores-1
-preview-book
 hello-bookdown
 a-section
 cross
@@ -24,4 +22,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
