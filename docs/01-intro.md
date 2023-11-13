@@ -1,11 +1,21 @@
-# Hello bookdown 
+# Introdução
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+Em 2006, uma mudança eleitoral notável aconteceu no Brasil: o deslocamento da força eleitoral de Lula – e do PT – do Sul e Sudeste para o Norte e, em especial, o Nordeste (Hunter e Power, 2007; Nicolau e Peixoto, 2007; Soares e Terron, 2008). Esse fenômeno foi destacado por alguns autores como um realinhamento eleitoral (Singer, 2012), isto é, um momento no qual ocorre uma mudança na clivagem eleitoral que estrutura uma disputa, com consequências de longo prazo – ainda que existam controvérsias quanto à magnitude ou mesmo a existência deste fenômeno (Rennó e Cabello, 2010; Bohn, 2011; Limongi e Guarnieri, 2015).
+Essa mudança está ilustrada nos mapas abaixo (Soares e Terron, 2008). Neles, vemos que em 2002 (mapa à direita) as principais concentrações de votos em Lula se davam em agrupamentos de municípios no Sul e Sudeste do país (aqueles coloridos de verde). Em 2006 (mapa à esquerda), porém, esses agrupamentos se deslocam principalmente para o Norte e Nordeste (ainda que existem em grande volume em Minas Gerais). 
 
-## A section
+*Figura 1*
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+Recentemente, os resultados das eleições para prefeito de São Paulo levantaram dúvidas sobre a possibilidade de o município estar passando por um processo semelhante. Afinal, em 2016 houve um enfraquecimento do PT nos distritos fora do Centro Expandido, onde o partido se revelou historicamente forte, sendo que parte desses eleitores foi capturada pelo seu principal adversário, o PSDB. Nessa disputa, João Doria (PSDB) foi o vencedor em 93 dos 96 distritos paulistanos, com alcance para além do Centro Expandido, como visto no mapa abaixo (Zolnerkevic e Guarnieri, 2023).
 
-### An unnumbered section {-}
+*Figuras 2*
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+São Paulo é um município com clivagens ideológicas bastante conhecidas. Limongi e Mesquita (2011) apontam uma relativa estabilidade nas eleições para prefeito na cidade durante a redemocratização. Com a introdução do 2º turno, a disputa passa a ser polarizada por um grupo de eleitores mais alinhado à esquerda (e, portanto, ao PT), que é em geral mais pobre; e por outro grupo alinhado à centro-direita e direita, em geral mais “abastado”. Dado o caráter territorial das socioeconômicas em São Paulo, essa clivagem também se manifesta de forma espacial. Assim, como destacamos acima, o PT é mais forte nas regiões periféricas da cidade e a coalizão de centro-direita/direita, que foi representada por diversos partidos – e, mais notavelmente, o PSDB –, tinha votos mais concentrados no Centro Expandido. 
+Em 2020, porém, as urnas mostraram que 2016 foi somente um ponto fora da curva na história eleitoral de São Paulo. Como mostram Zolnerkevic e Guarnieri (2023), elas foram resultado de estratégias da competição eleitoral, especialmente com a participação de Marta Suplicy nas eleições de 2016. O eleitorado seguiu sua orientação ideológica, “com eleitores de regiões de baixa renda votando na esquerda e eleitores de regiões de renda mais alta votando na direita” (Zolnerkevic e Guarnieri, 2023, p. 134). Esse ponto pode ser visto nos mapas abaixo, que mostram os resultados do 1º turno de 2020 para os dois candidatos de esquerda, Guilherme Boulos (PSOL) e Jilmar Tatto (PT).
+
+*Figuras 3 e 4*
+
+Essas questões territoriais não se restringem às eleições para prefeito. Faganello (2017) mostra como as bases eleitorais no município de São Paulo de candidatos vinculados à Bancada da Bala se aproximam dos achados de Pierucci (1988) de existência de uma base eleitoral de candidatos populistas de direita (como Paulo Maluf e Jânio Quadros) na Zona Norte da cidade. Abaixo, vemos à direita um mapa com as regiões de maior votação em Jânio Quadros para prefeito em 1985 (Pierucci, 1988) e, à esquerda, mapas com as votações de candidatos da Bancada da Bala em 2016 – Conte Lopes, vereador, e Major Olímpio, prefeito (Faganello, 2017).
+
+*Figuras 5 e 6*
+
+Com esses exemplos, vimos que mapas nos ajudam a contar histórias sobre as eleições. Certamente, fatores adicionais devem ser incorporados para contá-las, mas eles são instrumentos importantes para identificar padrões e explicar a leitores o que está acontecendo. Esse workshop será dedicado a apresentar como fazer mapas desse tipo utilizando a linguagem R. Como em 2024 teremos eleições municipais, daremos um foco especial em produzir esses mapas tendo como foco as cidades. 
