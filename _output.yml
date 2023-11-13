@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">Mapas Eleitorais com R</a></li>
       after: |
         <li><a href="http://www.cepesp.io/" target="blank">FGV CEPESP</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+#    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
