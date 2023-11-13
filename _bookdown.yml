@@ -10,7 +10,7 @@ rmd_files:
 - 06-exercicios.Rmd
 - 07-visualiza.Rmd
 - 08-exercicio-final.Rmd
-- 09-references.Rmd
+- 09-referencias.Rmd
 output_dir: docs
 language:
   ui:
