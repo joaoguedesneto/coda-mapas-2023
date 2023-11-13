@@ -15,19 +15,25 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Sobre o Workshop
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Em 2018, PT e PSL protagonizaram a disputa pela presidência. No Capão Redondo, a disputa para deputado reproduziu essa tendência. Porém, em Pinheiros, os mais votados saíram desse padrão: foram PSOL e Novo. Mapas eleitorais permitem investigar esse fenômeno.
 
-## Usage 
+O objetivo desse workshop é ensinar os participantes a trabalhar com dados espaciais no R a partir de informações eleitorais. Nele, vamos apresentar algumas características e cuidados especiais com esse tipo de dados, como associar os resultados eleitorais ao espaço (inclusive intramunicipais), e a produzir mapas.
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+## Pré-Requisitos da Atividade 
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+R, RStudio, pacotes (tidyverse e sf)
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+## Autores
 
-## Render book
+*Lucas Gelape* é pesquisador de pós-doutorado no CEPESP FGV, doutor em Ciência Política pela Universidade de São Paulo. Atualmente, pesquisa temas relacionados a política local e geografia eleitoral. No jornalismo, trabalhou no G1 e no Volt Data Lab/Núcleo.
+
+*João V. Guedes-Neto* é pesquisador de pós-doutorado no CEPESP FGV, doutor em Ciência Política pela Universidade de Pittsburgh.
+
+*Marco Antonio Faganello* é Pesquisador, cientista de dados e pós-doutorando no CEPESP FGV, doutor em Ciência Política pela Universidade Estadual de Campinas (UNICAMP). Atualmente, pesquisa temas relacionados à eleições, partidos, direita e geografia eleitoral.
+
+## Autores
 
 You can render the HTML version of this example book without changing anything:
 
